@@ -30,15 +30,16 @@ I am currently building my programming skills through hands-on projects and expl
 
 ## 📂 Featured Projects
 
-### 1. Student Result System
+### 1. Drug-Recommendation-LLM
+Integrated LLM Framework for Drug Recommendation Using Structured and Unstructured Clinical Data
+
+  🔗 [View Project](https://github.com/PrachiWanjari/Drug-Recommendation-LLM)
+  
+### 2. Student Result System
 A Java console application that accepts student details and marks, then calculates total marks, percentage, and grade.
 
 🔗 [View Project](https://github.com/aniketmokalkar/STUDENT-RESULT)
 
-### 2. Student Results
-A beginner-friendly Java project that demonstrates input handling, calculations, and conditional statements.
-
-🔗 [View Project](https://github.com/aniketmokalkar/STUDENT-RESULTS)
 
 ### 3. Employee Salary Slip
 A Java application that calculates salary components such as HRA, DA, PF, and total salary.
